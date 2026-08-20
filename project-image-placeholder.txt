@@ -1,7 +1,0 @@
-Replace this file with your own Smart AI Glasses project image.
-
-Recommended filename:
-assets/smart-ai-glasses.jpg
-
-Suggested GitHub README usage:
-![Smart AI Glasses](assets/smart-ai-glasses.jpg)
